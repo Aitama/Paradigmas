@@ -1,0 +1,4 @@
+Paradigmas
+==========
+
+base de datos
